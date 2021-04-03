@@ -1,11 +1,13 @@
 
-/// main files
-void setup() {
-  // put your setup code here, to run once:
+#include "Wire.h"                    // Подключение библиотеки WireCdev
+ 
 
+void setup()
+{
+
+ 
 }
-
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop()
+{
 
 }
